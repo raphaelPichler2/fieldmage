@@ -1,0 +1,29 @@
+lvl1: kill 10 enemies
+lvl2: distance 50
+lvl3: raid dungeon
+lvl4: stirb
+
+lvl5:	kill 40
+	spend 30 coins 
+lvl6:	kill 100
+	spend 100 coins
+lvl7:	get 10 scrap
+	get 50 scrap
+lvl8:	distance 100
+	raid 5 dungeon
+lvl9:	collect 20 apples
+	kill 200 enemies
+lvl10:  kill 400 enemies
+ 	kill 650 enemies
+lvl11:	distance 150
+	kill 1000 enemies
+lvl12:  kill 2 beehives
+	kill 5 beehives
+lvl13:  day 2
+	day 4
+lvl14:  spend 200 coins
+	get 100 scrap
+lvl15:  
+	
+
+

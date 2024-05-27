@@ -1,0 +1,47 @@
+plug-targeted bullets on enemy death
+blood-kills give bloodstacks(+attackspeed, movement)
+rhino-first bullet deals bonus dmg
+extendo-magsize up reloadspeed down
+dashing refills your mag +1
+shield- regen up after not getting hit for 10 sec
+stacking item that increases random chance of bonus dmg
+under 50% hp dmg up
+warrior-all stats up
+not getting hit gives stack, eachstack dmg up
+stack for hitting enemy
+while full hp 
+every 5 seconds shoot a bullets in all directions
+every hit regens 1 mana
+every hit regens 1 hp
+  
+using skill 
+if full mana increase dmg but -10 mana
+
+builds:
+mana
+dmg 
+attackspeed
+dmg 
+healing 
+speed
+aoe
+tankyness
+
+emperor
+	//killing enemy adds 1 bullet
+	magsize*2 
+	ragestacks, each hit gives attackspeed
+	+20% dmg
+hivemaster
+	adds a shotgunbullet
+	killing close enemys gives mindstacks-chance of double hive 
+	last shot deals +50% dmg
+techpriest
+	gain bonus stacks missing mana
+	chance of getting 1 sec cdr on rocket
+	removes dash to movementspeed, and target bullets
+vampire
+	become untargatable while dash and deal dmg
+	kills reduce dash cdr Hunehungerstacks-increases dash range
+	if enemy near targeted bullet permanent
+
